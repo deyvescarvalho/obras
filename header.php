@@ -108,6 +108,12 @@
 
             <!--  CADASTROS-->
             <li class="treeview">
+              <a href="http://localhost/Obras/pages/forms/projeto.php">
+                <i class="fa fa-circle"></i>
+                <span>Novo Projeto</span>
+              </a>
+            </li>
+            <li class="treeview">
               <a href="#">
                 <i class="fa fa-user"></i>
                 <span>Cadastros</span>
@@ -119,6 +125,7 @@
                 <li><a href="#"><i class="fa fa-circle-o"></i> Usuário</a></li>
               </ul>
             </li>
+
             <!--  -->
 
             <!-- <li class="treeview">
@@ -162,10 +169,11 @@
             </li>
             <li class="treeview">
               <a href="#">
-                <i class="fa fa-table"></i> <span>Tables</span>
+                <i class="fa fa-table"></i> <span>Listagem</span>
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
+                <li><a href="http://localhost/Obras/pages/tables/Clientes.php"><i class="fa fa-circle-o"></i> Clientes</a></li>
                 <li><a href="/Obras/pages/tables/simple.html"><i class="fa fa-circle-o"></i> Simple tables</a></li>
                 <li><a href="/Obras/pages/tables/data.html"><i class="fa fa-circle-o"></i> Data tables</a></li>
               </ul>
